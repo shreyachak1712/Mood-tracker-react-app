@@ -24,3 +24,8 @@ Icons: Emoji for simplicity
 Styling: Custom CSS (no frameworks used)
 
 (No backend yet – entries are session-based)
+
+Screenshots:
+
+src\screenshots\Screenshot 2025-07-22 093257.png
+src\screenshots\Screenshot 2025-07-22 093320.png
