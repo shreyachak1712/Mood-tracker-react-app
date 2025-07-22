@@ -27,5 +27,5 @@ Styling: Custom CSS (no frameworks used)
 
 Screenshots:
 
-![App Screenshot](src/screenshots/Screenshot 2025-07-22 093257.png)
-![App Screenshot](src/screenshots/Screenshot 2025-07-22 093320.png)
+![App Screenshot](src/screenshots/screenshot1.png)
+![App Screenshot](src/screenshots/screenshot2.png)
