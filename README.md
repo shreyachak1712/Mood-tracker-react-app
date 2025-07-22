@@ -29,3 +29,4 @@ Screenshots:
 
 ![App Screenshot](src/screenshots/screenshot1.png)
 ![App Screenshot](src/screenshots/screenshot2.png)
+![App Screenshot](src/screenshots/screenshot3.png)
